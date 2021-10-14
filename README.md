@@ -24,7 +24,7 @@ Model is ran over 60000 random train images and 10000 random test images from th
 >> loss: 0.0834 - accuracy: 0.9819
 {Result may vary a little because of randomness of data set used for training of the model}
 
-Note:- Please check the "MNIST_using_RNN.ipynb" for better understanding of the model.
+Note:- Please check the "MNIST_using_CNN.ipynb" jupyter notebook for better understanding of the model.
 
 
 
