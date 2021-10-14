@@ -10,7 +10,7 @@ MNIST dataset from keras is used for Digit Recogintion {0-9}. Convolution Neural
 * Archiecture:-
 1) Two convolution layers
 2) Two max. pooling layers
-3) flatten layer
+3) Flatten layer
 4) Dense layer
 5) Dense Output layer {Will have 10 nodes, because its classifier for 10 nodes}
 
